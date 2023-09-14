@@ -17,7 +17,7 @@ username="mmtz"
 password="mmtz"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
-sshlimiter="50"
+sshlimiter="300"
 
 #ရက်ကန့်သက်ရန်(Qwiklab အတွက်မို့ 2-DAY ပုံသေထားရပါသည်)
 dias="2"
@@ -28,13 +28,13 @@ dias="2"
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
 servermessage="<h3><font color='red'>
-▬▬▬▬▬▬▬▬😘MMTZ😘▬▬▬▬▬▬▬▬
+MMTZ FREE KEY CHANNEL/GROUP LINK
 </font></h3>
 <h4><font color='cyan'>
-MMTZ FREE KEY CHANNEL IS JOIN
+https://t.me/myomyattun94
 </font></h4>
 <h3><font color='red'>
-https://t.me/myomyattun94
+https://t.me/myomyattun9999
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
