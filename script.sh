@@ -27,14 +27,14 @@ dias="2"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h3><font color='red'>
-MMTZ FREE KEY CHANNEL/GROUP LINK
+servermessage="<h3><font color='blue'>
+MMTZ FREE KEY CHANNEL LINK
 </font></h3>
 <h4><font color='cyan'>
 https://t.me/myomyattun94
 </font></h4>
 <h3><font color='red'>
-https://t.me/myomyattun9999
+THANK YOU 
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
