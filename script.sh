@@ -28,13 +28,13 @@ dias="2"
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
 servermessage="<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬😘MMTZ😘▬▬▬▬▬▬▬▬
 </font></h3>
 <h4><font color='cyan'>
-THANK YOU
+MMTZ FREE KEY CHANNEL IS JOIN
 </font></h4>
 <h3><font color='red'>
-THANK YOU
+https://t.me/myomyattun94
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
