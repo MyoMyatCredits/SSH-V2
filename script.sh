@@ -13,8 +13,8 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="mmtz"
-password="mmtz"
+username="mmtz1"
+password="mmtz1"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
 sshlimiter="300"
